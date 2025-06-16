@@ -1,4 +1,4 @@
-### <div align="center">Muito prazer, sou a Yasmim 😃 sou uma desenvolvedora backend em desenvolvimento 👩‍💻</div>  
+### <div align="rigth">Muito prazer, sou a Yasmim 😃 sou uma desenvolvedora backend em desenvolvimento 👩‍💻</div>  
   
 
 -  📍Atualmente estou focando [nesse projeto]()  
@@ -11,7 +11,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="rigth">
 <a href="https://github.com/YasmimAlves01" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -25,13 +25,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YasmimAlves01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="rigth"><img src="https://github-readme-stats.vercel.app/api?username=YasmimAlves01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
 
 
