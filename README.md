@@ -1,39 +1,43 @@
 ### <div align="rigth">Muito prazer, sou a Yasmim 😃 sou uma desenvolvedora backend em desenvolvimento 👩‍💻</div>  
-  
+
 
 -  📍Atualmente estou focando [nesse projeto]()  
-  
+
 
 - 🌱 Atualmente estou focando em C++ e Node.js  
-  
+
 
 <br/>  
 
 
 ## Connect with me  
-<div align="rigth"><img src="https://github-readme-stats.vercel.app/api?username=YasmimAlves01&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-  
+<div align="center">
+<a href="https://github.com/YasmimAlves01" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/yasmim-rodrigues-b6b25a266" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 
 <br/>  
 
 
 ## Github Stats  
-<div align="right">
-  <a href="https://github.com/YasmimAlves01" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
-  </a>
-</div>
- 
+<div align="rigth"><img src="https://github-readme-stats.vercel.app/api?username=YasmimAlves01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%" background-color="#ffff">
 
 
 
 ### Frontend  
+<div align="center" background-color="#ffff">  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -47,6 +51,7 @@
 
 
 ### Backend  
+<div align="center" background-color="#ffff">  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -66,4 +71,3 @@
 </div>  
 
 <br />
-
