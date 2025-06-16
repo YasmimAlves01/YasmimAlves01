@@ -1,7 +1,7 @@
 ### <div align="rigth">Muito prazer, sou a Yasmim 😃 sou uma desenvolvedora backend em desenvolvimento 👩‍💻</div>  
 <br/>
 
--  📍Atualmente estou focando [nesse projeto]()  
+-  📍Atualmente estou focando [nesse projeto](https://github.com/YasmimAlves01/PRAIOOU)  
 
 
 - 🌱 Atualmente estou focando em C++ e Node.js  
