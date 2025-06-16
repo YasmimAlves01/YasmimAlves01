@@ -25,7 +25,7 @@
 
 
 ## Github Stats  
-<div align="rigth"><img src="https://github-readme-stats.vercel.app/api?username=YasmimAlves01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmimAlves01&show_icons=true&theme=transparent)
 
 <br/>  
 
