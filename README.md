@@ -26,6 +26,7 @@
 
 ## Github Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmimAlves01&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimAlves01&layout=compact&theme=transparent)
 
 <br/>  
 
