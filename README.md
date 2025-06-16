@@ -25,7 +25,12 @@
 
 
 ## Github Stats  
-<div align="rigth"><img src="https://github-readme-stats.vercel.app/api?username=YasmimAlves01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="right">
+  <a href="https://github.com/YasmimAlves01" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
+  </a>
+</div>
+ 
 
 <br/>  
 
