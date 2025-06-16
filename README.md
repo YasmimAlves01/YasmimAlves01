@@ -1,5 +1,5 @@
 ### <div align="rigth">Muito prazer, sou a Yasmim 😃 sou uma desenvolvedora backend em desenvolvimento 👩‍💻</div>  
-
+<br/>
 
 -  📍Atualmente estou focando [nesse projeto]()  
 
