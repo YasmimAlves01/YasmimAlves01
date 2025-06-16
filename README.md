@@ -64,12 +64,12 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>  </table> 
 
 <br/>  
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=YasmimAlves01&&style=flat-square" align="center" />
 </div>  
-
-<br />
+<br/>
