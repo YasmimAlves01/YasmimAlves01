@@ -31,7 +31,7 @@
 
 
 ## My Skill Set  
-<table align="center"><tr><td valign="top" width="50%" background-color="#ffff">
+<table align="center"><tr><td valign="top" width="50%">
 
 
 
