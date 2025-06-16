@@ -6,10 +6,12 @@
 
 <br/>
 
--  📍Atualmente estou trabalhando [nesse projeto](https://github.com/YasmimAlves01/PRAIOOU)  
+- 📍Atualmente estou trabalhando [nesse projeto](https://github.com/YasmimAlves01/PRAIOOU)  
 
 
-- 🌱 Estou focando em C++ e Node.js  
+- 🌱 Estou focando em C++ e Node.js
+  
+- 📩 Você pode entrar em contato comigo por: yasmimalvesrodrigues16@gmail.com
 
 
 <br/>  
@@ -32,7 +34,7 @@
 ## Github Stats  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmimAlves01&show_icons=github&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimAlves01&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimAlves01&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
