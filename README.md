@@ -23,9 +23,8 @@
 <a href="https://linkedin.com/in/yasmim-rodrigues-b6b25a266" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+ 
 [![Portfólio](https://img.shields.io/badge/-Portfólio-ff69b4?style=for-the-badge&logo=githubpages&logoColor=white)](https://seu-portfolio.com)
-</div>  
-
 
 <br/>  
 
