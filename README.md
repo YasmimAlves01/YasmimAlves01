@@ -1,16 +1,21 @@
-<!-- ### <div align="rigth">Muito prazer, sou a Yasmim 😃 sou uma desenvolvedora backend em desenvolvimento 👩‍💻</div>  
+ ### <h1 align="center">Olá, eu sou a Yasmim! 👋</h1>
+
+<p align="center">
+  <i>Desenvolvedora apaixonada por tecnologia, design e boas experiências digitais.</i>
+</p>
+
 <br/>
 
--  📍Atualmente estou focando [nesse projeto](https://github.com/YasmimAlves01/PRAIOOU)  
+-  📍Atualmente estou trabalhando [nesse projeto](https://github.com/YasmimAlves01/PRAIOOU)  
 
 
-- 🌱 Atualmente estou focando em C++ e Node.js  
+- 🌱 Estou focando em C++ e Node.js  
 
 
 <br/>  
 
 
-## Connect with me  
+## Onde me encontrar
 <div align="center">
 <a href="https://github.com/YasmimAlves01" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -18,6 +23,7 @@
 <a href="https://linkedin.com/in/yasmim-rodrigues-b6b25a266" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+[![Portfólio](https://img.shields.io/badge/-Portfólio-ff69b4?style=for-the-badge&logo=githubpages&logoColor=white)](https://seu-portfolio.com)
 </div>  
 
 
@@ -25,15 +31,16 @@
 
 
 ## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmimAlves01\&rank_icon=github&theme=transparent)
-<br/>
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimAlves01&layout=compact&theme=transparent)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmimAlves01&show_icons=github&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimAlves01&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
 
 <br/>  
 
 
-## My Skill Set  
+## 🚀 Tecnologias que uso
 <table align="center"><tr><td valign="top" width="50%">
 <table align="center"><tr><td valign="top" width="50%" background-color="#ffff">
 
@@ -71,19 +78,16 @@
 
 
 <div align="center">
+<p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
 <img src="https://komarev.com/ghpvc/?username=YasmimAlves01&&style=flat-square" align="center" />
 </div>  
-<br/> -->
+<br/> 
 
-<h1 align="center">Olá, eu sou a Yasmim! 👋</h1>
-
-<p align="center">
-  <i>Desenvolvedora apaixonada por tecnologia, design e boas experiências digitais.</i>
-</p>
+<!--
 
 ---
 
-### 🚀 Tecnologias que uso no dia a dia
+### 
 
 #### 🖥️ Backend
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -121,8 +125,12 @@
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-ff69b4?style=for-the-badge&logo=githubpages&logoColor=white)](https://seu-portfolio.com)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmimAlves01\&rank_icon=github&theme=transparent)
+<br/>
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimAlves01&layout=compact&theme=transparent)
 
 ---
+-->
 
-<p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
+
