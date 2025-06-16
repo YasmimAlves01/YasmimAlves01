@@ -1,7 +1,7 @@
 ### <div align="center">Muito prazer, sou a Yasmim 😃 sou uma desenvolvedora backend em desenvolvimento 👩‍💻</div>  
   
 
--  📍Atualmente estou focando nesse projeto [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+-  📍Atualmente estou focando [nesse projeto]()  
   
 
 - 🌱 Atualmente estou focando em C++ e Node.js  
@@ -69,5 +69,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
