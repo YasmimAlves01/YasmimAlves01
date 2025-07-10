@@ -6,7 +6,7 @@
 
 <br/>
 
-- 📍Atualmente estou trabalhando [nesse projeto]([https://github.com/YasmimAlves01/PRAIOOU](https://github.com/YasmimAlves01/New-Baby.git))  
+- 📍Atualmente estou trabalhando [nesse projeto](https://github.com/YasmimAlves01/New-Baby.git)  
 
 
 - 🌱 Estou focando em C++, React e Node.js
