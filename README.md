@@ -43,8 +43,8 @@
 
 
 ## 🚀 Tecnologias que uso
-<table align="center"><tr><td valign="top" width="50%">
-<table align="center"><tr><td valign="top" width="50%" background-color="#ffff">
+<table align="center"><tr><td valign="top" width="100%">
+<table align="center"><tr><td valign="top" width="100%" background-color="#ffff">
 
 
 
