@@ -9,7 +9,7 @@
 - 📍Atualmente estou trabalhando [nesse projeto](https://github.com/YasmimAlves01/New-Baby.git)  
 
 
-- 🌱 Estou focando em C++, React e Node.js
+- 🌱 Estou focando em C++, React e Java
   
 - 📩 Você pode entrar em contato comigo por: yasmimalvesrodrigues16@gmail.com
 
