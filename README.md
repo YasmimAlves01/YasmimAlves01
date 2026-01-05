@@ -56,8 +56,8 @@
 
 
 ## 🚀 Tecnologias que uso
-<table align="center"><tr><td valign="top" width="50%">
-<table align="center"><tr><td valign="top" width="50%" background-color="#ffff">
+<table align="center"><tr><td valign="top" width="100%">
+<table align="center"><tr><td valign="top" width="100%" background-color="#ffff">
 
 
 
@@ -71,7 +71,7 @@
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
