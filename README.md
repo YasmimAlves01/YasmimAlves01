@@ -1,8 +1,8 @@
- ### <h1 align="center">Olá, eu sou a Yasmim! 👋</h1>
-
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/c0121c70-262e-44a1-ac4b-ccfd2a79c31c" />
 <p align="center">
   <i>Desenvolvedora apaixonada por tecnologia, design e boas experiências digitais.</i>
 </p>
+
 
 <br/>
 
