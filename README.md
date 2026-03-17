@@ -34,7 +34,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p>
-  <a href="https://github.com/YasmimAlves01">
+  <a href="[https://github.com/YasmimAlves01](https://github.com/YasmimAlves01)">
     <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="YasmimAlves01's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=YasmimAlves01&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
   </a>
